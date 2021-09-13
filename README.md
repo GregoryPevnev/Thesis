@@ -41,4 +41,5 @@ TODO: Write annotations and quick descriptions for each resources some time
 8. https://link.springer.com/article/10.1007/s002360050048
 9. https://ieeexplore-ieee-org.library.sheridanc.on.ca/document/7352511
 10. https://ieeexplore-ieee-org.library.sheridanc.on.ca/document/8411471
-More are going to be added
+
+Note: More are going to be added
