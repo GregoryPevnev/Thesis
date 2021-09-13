@@ -6,7 +6,8 @@ SQL / NoSQL DBMS for mobile applications
 - Couchbase Lite: Most optimal NoSQL Document-Based database for IoT according to many sources, which makes it perfect for local storage and caching - 
   - Internal Structure: B+ Tree - Generic Index data-structure for most relational databases and document-based NoSQL databases
   - Usage: IoT local databases, memory-optimized NoSQL database
-  - Reference: https://github.com/couchbase/couchbase-lite-android
+  - References:
+    - https://github.com/couchbase/couchbase-lite-android
 - ForestDB: Key-Value NoSQL database developed by the same people who developed Couchbase Lite specifically for caching use-cases, which makes it even better
   - Internal Structure: HB+ Tree - More optimal tree data-structure specifically for caching and key-value storage
   - Usage: Caching data as key-value pairs - Documentation specifically mentions mobile devices usage
